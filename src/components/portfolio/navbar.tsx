@@ -2,6 +2,7 @@
 
 import { Menu, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
+import { ColorSwitcher } from "@/components/portfolio/color-switcher";
 import { LanguageSwitcher } from "@/components/portfolio/language-switcher";
 import { ThemeToggle } from "@/components/portfolio/theme-toggle";
 import { Button } from "@/components/ui/button";
@@ -87,6 +88,7 @@ export function Navbar({ labels }: { labels: NavMap }) {
         </nav>
 
         <div className="flex items-center gap-2">
+          <ColorSwitcher />
           <LanguageSwitcher />
           <ThemeToggle />
           <Button

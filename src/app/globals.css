@@ -12,6 +12,34 @@
   --hero-accent: #22c55e;
 }
 
+[data-color-scheme="sky"] {
+  --ring: #2563eb;
+  --brand: #0ea5e9;
+  --brand-strong: #0369a1;
+  --hero-accent: #22c55e;
+}
+
+[data-color-scheme="emerald"] {
+  --ring: #059669;
+  --brand: #10b981;
+  --brand-strong: #047857;
+  --hero-accent: #84cc16;
+}
+
+[data-color-scheme="sunset"] {
+  --ring: #ea580c;
+  --brand: #f97316;
+  --brand-strong: #c2410c;
+  --hero-accent: #f59e0b;
+}
+
+[data-color-scheme="ruby"] {
+  --ring: #dc2626;
+  --brand: #ef4444;
+  --brand-strong: #b91c1c;
+  --hero-accent: #f43f5e;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
