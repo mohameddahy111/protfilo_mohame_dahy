@@ -1,0 +1,5 @@
+{
+  "prisma-smart-formatter.typescript.defaultFormatter": "esbenp.prettier-vscode",
+  "prisma-smart-formatter.typescriptreact.defaultFormatter": "svipas.prettier-plus",
+  "i18n-ally.localesPaths": ["src/i18n"]
+}

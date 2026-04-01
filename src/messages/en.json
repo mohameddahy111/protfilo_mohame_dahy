@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "title": "Mohamed Dahy | Front-End Developer & Software Engineer",
+    "description": "Interactive bilingual portfolio for Mohamed Dahy, showcasing software engineering experience, projects, and technical leadership.",
+    "keywords": "Mohamed Dahy, Front-End Developer, Software Engineer, Next.js, React, Alexandria"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "common": {
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me",
+    "downloadResume": "Download Resume",
+    "github": "GitHub",
+    "liveDemo": "Live Demo",
+    "liveSite": "Live Site",
+    "loading": "Loading...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message"
+  },
+  "hero": {
+    "name": "Mohamed Dahy",
+    "title": "Front-End Developer | Software Engineer",
+    "location": "Alexandria, Egypt",
+    "intro": "Seasoned Software Engineer experienced in developing applications, databases, and cloud computing solutions. Smart professional with proven troubleshooting and debugging capabilities.",
+    "roles": [
+      "Front-End Developer",
+      "Software Engineer",
+      "Full-Stack Developer"
+    ],
+    "stats": {
+      "years": "Years of Experience",
+      "projects": "Projects Delivered",
+      "components": "Reusable Components"
+    }
+  },
+  "about": {
+    "heading": "About Me",
+    "journey": "My career began in Agricultural Technology Management before transitioning into Computer Science and modern software engineering. This shift built a unique mindset that combines operational precision with technical creativity.",
+    "focus": "I focus on scalable, maintainable, and reusable code that helps products evolve confidently over time.",
+    "strengthsTitle": "Core Strengths",
+    "strengths": [
+      "Advanced debugging and troubleshooting",
+      "Structured testing strategy and execution",
+      "Team supervision and technical mentoring",
+      "Integrating new technologies into live systems"
+    ],
+    "period": "2022 - Present"
+  },
+  "skills": {
+    "heading": "Skills",
+    "subheading": "A balanced stack for product delivery from interface craftsmanship to robust backend logic.",
+    "categories": {
+      "frontend": "Front-End",
+      "backend": "Back-End & Database",
+      "tools": "Tools & Libraries",
+      "other": "Other"
+    }
+  },
+  "experience": {
+    "heading": "Experience",
+    "items": {
+      "softwareEngineer": {
+        "role": "Software Engineer",
+        "company": "Talenta, Egypt",
+        "period": "2022 - Present",
+        "points": [
+          "Tested methodology with writing and execution of test plans, debugging scripts, and testing tools.",
+          "Supervised programmers, designers, and technicians while assigning tasks and monitoring targets.",
+          "Rapidly prototyped data processing capabilities to validate integration feasibility.",
+          "Communicated project milestones to internal personnel and external stakeholders.",
+          "Developed scalable and maintainable code that improved long-term product stability.",
+          "Implemented debugging strategies that reduced defects and improved reliability.",
+          "Built reusable components that reduced implementation effort across projects.",
+          "Integrated new technologies into existing systems to unlock additional capabilities."
+        ]
+      },
+      "frontendDeveloper": {
+        "role": "Front End Developer",
+        "company": "Talenta, Alexandria",
+        "period": "Previous Role",
+        "points": [
+          "Developed scalable and maintainable front-end architecture.",
+          "Integrated modern technologies into existing systems for better performance.",
+          "Created reusable components that accelerated product delivery.",
+          "Applied practical debugging processes that improved release quality."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "heading": "Featured Projects",
+    "subheading": "Interactive products engineered for performance, maintainability, and real business outcomes.",
+    "filterBy": "Filter by technology",
+    "viewDetails": "View Details",
+    "items": {
+      "blog-creator": {
+        "title": "Blog Creator (Next.js 15 Full Stack)",
+        "description": "A full-stack publishing platform with a rich text editor and multi-plan subscription model (free and paid).",
+        "features": [
+          "Image upload and media management",
+          "Unique slug generation for SEO-friendly URLs",
+          "Free and paid plan architecture with Stripe"
+        ]
+      },
+      "shark-home-solutions": {
+        "title": "Shark Home Solutions (Next.js 14)",
+        "description": "A company website for the U.S. market focused on brand trust and service presentation.",
+        "features": [
+          "Interactive service presentation layout",
+          "Validated lead forms with email delivery",
+          "Responsive storytelling experience"
+        ]
+      }
+    }
+  },
+  "education": {
+    "heading": "Education",
+    "items": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Agricultural Technology Management",
+        "institution": "Alexandria University",
+        "period": "2005 - 2013"
+      },
+      {
+        "degree": "Computer Science & Programming",
+        "field": "Software Development Track",
+        "institution": "Route, Alexandria",
+        "period": "2020 - 2022"
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Testimonials",
+    "items": [
+      {
+        "quote": "Mohamed turns complex technical requirements into stable, production-ready experiences.",
+        "author": "Product Manager",
+        "role": "Talenta"
+      },
+      {
+        "quote": "His debugging mindset and component-first approach made our delivery cycle faster.",
+        "author": "Tech Lead",
+        "role": "Web Team"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact",
+    "description": "Have a project, team opportunity, or collaboration in mind? Let's talk.",
+    "email": "mohameddahy111@gmail.com",
+    "phone": "01092516161",
+    "location": "Alexandria, 22066, Egypt",
+    "success": "Your message has been sent successfully.",
+    "error": "Failed to send your message. Please try again later."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
